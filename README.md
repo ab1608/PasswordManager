@@ -1,4 +1,4 @@
-# learning-adventure
+# Password Manager Intent
 
 This PasswordManager is my first attempt at building a project using Python.
 I have taught myself Python and introductoray programming throughout summer 2020.
